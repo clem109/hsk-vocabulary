@@ -34,4 +34,5 @@ For now contributions are for fixing mistakes and adding sentence examples:
   },
 ```
 
+If you want to convert chinese to pinyin you can use this online tool: [Chinese Converter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin)
 
