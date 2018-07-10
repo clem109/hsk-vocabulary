@@ -27,7 +27,7 @@ For now contributions are for fixing mistakes and adding sentence examples:
     "examples": [
       {
       "zh": "我爱你",
-      "pinyin": "wǒ ài nǐ",
+      "pinyin": "wǒ ài nǐ",
       "en": "I love you"
       }
     ]
