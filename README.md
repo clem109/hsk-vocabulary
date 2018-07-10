@@ -11,6 +11,8 @@ HSK vocabulary, source: [gigacool/hanyu-shuiping-kaoshi](https://github.com/giga
 
 Please please please contribute to this, if you have an example sentence or wish to improve a translation please submit a pull request. Pull requests will be verified by native English/Chinese speakers.
 
+**If you are lazy and a pull request is too annoying, just submit an issue and I can merge it myself**
+
 For now contributions are for fixing mistakes and adding sentence examples:
 
 ```json
