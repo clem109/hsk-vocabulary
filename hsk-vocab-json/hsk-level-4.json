@@ -18,7 +18,7 @@
       "to plan",
       "to set up"
     ]
-  },
+  },B
   {
     "id": 602,
     "hanzi": "安全",
@@ -86,6 +86,12 @@
       "to safeguard",
       "protection",
       "CL:種|种[zhǒng]"
+    ],
+    "examples": [
+      {
+      "zh": "法国人希望保护他们的文化",
+      "en": "French People want to protect their culture"
+      }
     ]
   },
   {
